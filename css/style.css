@@ -1070,3 +1070,10 @@ textarea#comment::placeholder {
 .margin_top90 {
     margin-top: 90px;
 }
+
+.texto-nosotros-about-custom-1 {
+    width: 92%;
+    font-size: 16px;
+    margin: 0px;
+    color: #0f0f0f;
+}
