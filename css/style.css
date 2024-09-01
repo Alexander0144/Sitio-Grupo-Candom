@@ -332,6 +332,10 @@ button {
     padding: 90px 0px 90px 0px;
 }
 
+.banner_start_height {
+    min-height: 710px;
+}
+
 .banner_taital_main {
     width: 43%;
     float: left;
