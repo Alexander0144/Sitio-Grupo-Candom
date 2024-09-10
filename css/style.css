@@ -359,6 +359,7 @@ button {
     color: #060707;
     padding-top: 30px;
     margin: 0px;
+    height: 110px;
 }
 
 .btn_main {
@@ -1070,6 +1071,10 @@ textarea#comment::placeholder {
 
 
 /* copyright section end */
+
+.height-110-px {
+    height: 110px;
+}
 
 .margin_top90 {
     margin-top: 90px;
