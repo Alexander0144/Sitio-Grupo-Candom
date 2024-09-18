@@ -296,10 +296,6 @@ button {
     color: #f5a738 ;
 }
 
-.login_bt {
-
-}
-
 .login_bt ul {
     margin: 0px;
     padding: 0px;
@@ -562,7 +558,7 @@ button {
     font-weight: bold;
     color: #0f0f0f;
     margin-top: 20px;
-    padding-: 0px;
+    padding: 0px;
 }
 
 .many_text {
